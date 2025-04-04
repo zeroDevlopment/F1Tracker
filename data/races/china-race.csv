@@ -1,0 +1,21 @@
+driver,team,position,status,points,fastestLap,fastestNum,slowestLap,slowestNum,finalTime,gap
+PIA,McLaren,1,Finished,25.0,01:35.520,53,01:57.530,15,01:30:55.026,01:30:55.026
+NOR,McLaren,2,Finished,18.0,01:35.454,53,01:55.657,16,01:31:04.774,09.748
+RUS,Mercedes,3,Finished,15.0,01:35.816,55,01:54.236,15,01:31:06.123,11.097
+VER,Red Bull Racing,4,Finished,12.0,01:35.488,56,01:55.252,14,01:31:11.682,16.656
+OCO,Haas F1 Team,5,Finished,10.0,01:35.740,56,01:55.057,12,01:31:44.995,49.969
+ANT,Mercedes,6,Finished,8.0,01:36.046,56,01:57.008,13,01:31:48.774,53.748
+ALB,Williams,7,Finished,6.0,01:36.254,52,01:58.149,21,01:31:51.347,56.321
+BEA,Haas F1 Team,8,Finished,4.0,01:36.363,52,01:54.879,27,01:31:56.329,01:01.303
+STR,Aston Martin,9,Finished,2.0,01:36.044,39,01:54.242,37,01:32:05.230,01:10.204
+SAI,Williams,10,Finished,1.0,01:36.779,50,01:56.375,18,01:32:11.413,01:16.387
+HAD,Racing Bulls,11,Finished,0.0,01:35.868,35,01:56.943,13,01:32:13.901,01:18.875
+LAW,Red Bull Racing,12,Finished,0.0,01:35.985,32,01:56.168,19,01:32:16.173,01:21.147
+DOO,Alpine,13,Finished,0.0,01:36.424,52,01:55.619,12,01:32:23.427,01:28.401
+BOR,Kick Sauber,14,Lapped,0.0,01:35.874,28,02:03.657,1,01:31:05.782,10.756
+HUL,Kick Sauber,15,Lapped,0.0,01:37.275,35,01:57.795,21,01:31:15.252,20.226
+TSU,Racing Bulls,16,Lapped,0.0,01:35.871,49,02:15.867,47,01:31:18.537,23.511
+ALO,Aston Martin,R,Retired,0.0,DNF,DNF,DNF,DNF,DNF,DNF
+LEC,Ferrari,D,Disqualified,0.0,DNF,DNF,DNF,DNF,DNF,DNF
+HAM,Ferrari,D,Disqualified,0.0,DNF,DNF,DNF,DNF,DNF,DNF
+GAS,Alpine,D,Disqualified,0.0,DNF,DNF,DNF,DNF,DNF,DNF

@@ -1,0 +1,40 @@
+.podium {
+    position: relative;
+  }
+  
+  .podium-spot {
+    width: 100px;
+    padding-bottom: 20px;
+  }
+  
+  .podium-1 {
+    transform: translateY(0px);
+  }
+  
+  .podium-2 {
+    transform: translateY(0px);
+  }
+  
+  .podium-3 {
+    transform: translateY(0);
+  }
+  
+  .best-lap {
+    background-color: #af20b7 !important;
+    color: #fff;
+  }
+
+  .crown-emoji {
+    position: absolute;
+    top: -23px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 30px;
+    pointer-events: none;
+  }
+  
+  .podium-photo-wrapper {
+    height: 80px;
+    width: 80px;
+  }
+  
